@@ -1,4 +1,4 @@
 # odin-recipes
 
-Try CLI for Git  
+Trying CLI for Git  
 Made simple recipes website using HTML
