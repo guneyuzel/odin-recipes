@@ -1,7 +1,7 @@
 # odin-recipes
 
-Trying CLI for Git
+Repository for experimenting CLI for Git
 
-Made simple recipes website using HTML and CSS
+Simple recipes website using HTML and CSS
 
 Live Website: https://guneyuzel.github.io/odin-recipes/
